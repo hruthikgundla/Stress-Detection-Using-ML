@@ -10,7 +10,7 @@ The project can also provide recommendations and resources for individuals who a
 
 #to make your own model using this repository follow the following steps:
 - Firstly install python in your system
--install all the necessary libraries like:
+#install all the necessary libraries like:
  Numpy,
  Pandas,
  Sklearn,
