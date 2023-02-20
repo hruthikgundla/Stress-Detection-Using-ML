@@ -11,13 +11,13 @@ The project can also provide recommendations and resources for individuals who a
 #to make your own model using this repository follow the following steps:
 - Firstly install python in your system
 -install all the necessary libraries like:
- Numpy
- Pandas
- Sklearn
- Scikit learn
- matplotlib
- nltk
- stopwords
+ Numpy,
+ Pandas,
+ Sklearn,
+ Scikit learn,
+ matplotlib,
+ nltk,
+ stopwords,
  wordcloud
 - Now import the code named in this file 
  run the file in jupyterNotebook
