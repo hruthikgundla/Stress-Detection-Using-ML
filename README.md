@@ -6,7 +6,6 @@ The project involves collecting data from a variety of sources, including social
 
 The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into different categories based on the presence or absence of certain keywords and phrases. This allows the project to detect patterns and trends in the data, which can be used to identify potential stress triggers.
 
-The project can also provide recommendations and resources for individuals who are experiencing stress based on their specific needs and circumstances. This can include advice on stress management techniques, resources for mental health support, and information on self-care practices.
 
 # to make your own model using this repository follow the following steps:
 - Firstly install python in your system
