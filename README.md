@@ -8,9 +8,10 @@ The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into
 
 The project can also provide recommendations and resources for individuals who are experiencing stress based on their specific needs and circumstances. This can include advice on stress management techniques, resources for mental health support, and information on self-care practices.
 
-#to make your own model using this repository follow the following steps:
+# to make your own model using this repository follow the following steps:
 - Firstly install python in your system
-#install all the necessary libraries like:
+
+# install all the necessary libraries like:
  Numpy,
  Pandas,
  Sklearn,
