@@ -11,14 +11,15 @@ The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into
 - Firstly install python in your system
 
 # install all the necessary libraries like:
- Numpy,
- Pandas,
- Sklearn,
- Scikit learn,
- matplotlib,
- nltk,
- stopwords,
- wordcloud
-- Now import the code named in this file 
- run the file in jupyterNotebook
--And thats it you are pretty much done.
+ * Numpy,
+ * Pandas,
+ * Sklearn,
+ * Scikit learn,
+ * matplotlib,
+ * nltk,
+ * stopwords,
+ * wordcloud
+ 
+ ###  Now import the code named in this file 
+ ### run the file in jupyterNotebook
+### And thats it you are pretty much done.
