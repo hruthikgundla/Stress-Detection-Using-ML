@@ -20,6 +20,6 @@ The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into
  * stopwords,
  * wordcloud
  
- ###  Now import the code named in this file 
+ ###  Now import the code named in this file [Github link](ML project.ipynb)
  ### run the file in jupyterNotebook
 ### And thats it you are pretty much done.
