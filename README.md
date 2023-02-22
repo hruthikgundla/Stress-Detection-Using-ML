@@ -7,7 +7,7 @@ The project involves collecting data from a variety of sources, including social
 The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into different categories based on the presence or absence of certain keywords and phrases. This allows the project to detect patterns and trends in the data, which can be used to identify potential stress triggers.
 
 
-# to make your own model using this repository follow the following steps:
+# To make your own model using this repository follow the following steps:
 - Firstly install python in your system
 
 # install all the necessary libraries like:
@@ -21,5 +21,5 @@ The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into
  * wordcloud
  
  ###  Now import the code named in this file [ML project.ipynb](https://github.com/hruthikgundla/Stress-Detection-Using-ML/blob/main/ML/ML%20project.ipynb)
- ### run the file in jupyterNotebook
+ ### Run the file in jupyterNotebook
 ### And thats it you are pretty much done.
