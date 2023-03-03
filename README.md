@@ -20,6 +20,6 @@ The Bernoulli Naive Bayes Classifier algorithm is used to classify the data into
  * stopwords
  * wordcloud
  
- ###  Now import the code named in this file [ML project.ipynb](https://github.com/hruthikgundla/Stress-Detection-Using-ML/blob/main/ML/ML%20project.ipynb)
+ ###  Now import the code named in this file [STRESS DETECTION PERSONAL PROJECT.py](https://github.com/hruthikgundla/Stress-Detection-Using-ML/blob/main/ML/STRESS%20DETECTION%20PERSONAL%20PROJECT.py)
  ### Run the file in jupyterNotebook
 ### And thats it you are pretty much done.
